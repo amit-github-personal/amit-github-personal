@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 🥇
 
 ---
 I am Amit Mishra and I am working as a full time software developer in Oodles technologies. I primarily work on java and related framework specifically on Spring MVC, Spring Boot, Spring Cloud, Spring Security, Microservices and WebSockets as well. I also work on frontend technologies i.e VueJS only.
